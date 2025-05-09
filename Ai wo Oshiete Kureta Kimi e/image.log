@@ -1,0 +1,58 @@
+Exact Audio Copy V1.3 from 2. September 2016
+
+EAC extraction logfile from 28. November 2017, 15:52
+
+クアイフ / 愛を教えてくれた君へ
+
+Used drive  : PIONEER BD-RW   BDR-XD05   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 667
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+
+Used output format : Internal WAV Routines
+Sample format      : 44.100 Hz; 16 Bit; Stereo
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  5:35.62 |         0    |    25186   
+        2  |  5:35.62 |  4:08.39 |     25187    |    43825   
+        3  |  9:44.26 |  1:31.54 |     43826    |    50704   
+        4  | 11:16.05 |  5:35.62 |     50705    |    75891   
+        5  | 16:51.67 |  4:07.17 |     75892    |    94433   
+
+
+Range status and errors
+
+Selected range
+
+     Filename N:\クアイフ - 愛を教えてくれた君へ.wav
+
+     Peak level 99.9 %
+     Extraction speed 3.7 X
+     Range quality 100.0 %
+     Copy CRC 275CAC8D
+     Copy OK
+
+No errors occurred
+
+End of status report
+
+---- CUETools DB Plugin V2.1.6
+
+[CTDB TOCID: hTnw_UySBU2SyPqXgv7_yO5gt2c-] disk not present in database
+Submit result: hTnw_UySBU2SyPqXgv7_yO5gt2c- has been uploaded
+
+
+==== Log checksum FEA02B0787DE549E22C89FDC5728612EDF3DF3E81DF3EA44EF1D5F8FCFD562D0 ====
